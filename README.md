@@ -24,18 +24,17 @@ The robot integrates autonomous navigation, remote control, and obstacle avoidan
 ---
 
 ## 🎬 Demo Video
-
-Watch the full demo here:  
-👉 [YouTube Demo](https://youtu.be/NNvQsj_P3p4)
+  
+👉 [YouTube](https://youtu.be/NNvQsj_P3p4)
 
 ---
 
 ## 👥 Team Members
 
-- Hejunjie Cao
-- Zahari Nedev  
-- Shivam Bhatt  
-- Shibin Dong  
-- Ansat Euler  
-- YunXiang Miao  
-- Sherniyaz Nurlankul
+- [Hejunjie Cao](https://github.com/hejunjiecao)
+- [Zahari Nedev](https://github.com/zaharipi4a)
+- [Shivam Bhatt](https://github.com/ShiVamBhatt7533)
+- [Shibin Dong](https://github.com/dongshibin666-beep)
+- [Ansat Euler](https://github.com/iffypixy)
+- [YunXiang Miao](https://github.com/LLeen)
+- [Sherniyaz Nurlankul](https://github.com/srrnx)
